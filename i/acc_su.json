@@ -1,0 +1,10 @@
+{
+    "user": [
+        {
+            "usr": "admin",
+            "unm": "Administrator",
+            "pwd": "secretz"
+        }
+    ],
+    "logged": 0
+}

@@ -1,0 +1,10 @@
+{
+    "user": [
+        {
+            "usr": "j.doe",
+            "unm": "John Doe",
+            "pwd": "example"
+        }
+    ],
+    "logged": -1
+}
